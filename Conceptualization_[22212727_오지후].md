@@ -62,14 +62,19 @@ Author
 
 2. System context diagram
 
-- Build a diagram to show the relationships between “System” and “Users”.
-- Context models are used to illustrate the operational context of a system. They show what lies outside the system boundaries.
-- Make your description for the terms in the diagram.
-- 12pt, 160%.
+![](https://github.com/jh1001oh/conceptualization--22212727-/blob/main/System%20Diagram%20%EC%BA%A1%EC%B3%90%EB%B3%B8.png?raw=true)
 
+User 사용자
+: 신용카드 추천 앱을 실제로 사용하는 소비자, 소비 카테고리별 월평균 지출액을 입력한다.
 
+Core 핵심 기능
+: 카드를 추천하는 알고리즘으로 카드의 혜택과 피킹률을 계산한다.
 
+Data
+: 카드와 사용자 소비 데이터를 저장한다.
 
+System
+: Core와 Data로 구성된 시스템
 
 
 3. Use case list
