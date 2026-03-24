@@ -3,11 +3,10 @@
 
 (BeneFIT)
 
+<img src="https://github.com/jh1001oh/conceptualization--22212727-/blob/main/BeneFIT%20Logo.png?raw=true" width="400" height="400"/>
 
 
 (22212727, 오지후, nyeong2216@daum.net)
-
-
 
 [ Revision history ]
 
