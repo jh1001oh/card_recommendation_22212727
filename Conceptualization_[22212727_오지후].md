@@ -1,7 +1,7 @@
 1. Conceptualization
 
 
-(BeneFIT)
+"BeneFIT"
 
 <img src="https://github.com/jh1001oh/conceptualization--22212727-/blob/main/BeneFIT%20Logo.png?raw=true" width="400" height="400"/>
 
